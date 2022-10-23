@@ -14,3 +14,6 @@
   line-height: 20px;
   text-decoration: none;
 }
+.menu-list a:hover {
+  color: orange;
+}
