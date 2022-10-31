@@ -1,8 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./Login.css";
 
-const Login = () => {
+const SignUp = () => {
   return (
     <div className="form-container">
       <div>
@@ -29,4 +28,4 @@ const Login = () => {
   );
 };
 
-export default Login;
+export default SignUp;

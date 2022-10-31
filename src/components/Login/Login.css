@@ -1,0 +1,70 @@
+.form-container {
+  width: 500px;
+  height: 600px;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+  margin: 0 auto;
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  box-shadow: -15px 15px 5px #ff99004d;
+}
+
+.form-title {
+  font-weight: 400;
+  font-size: 35px;
+  font-family: "Lato";
+  color: #2a414f;
+  margin-top: 38px;
+  display: flex;
+  justify-content: center;
+}
+
+.input-group {
+  margin-top: 20px;
+}
+
+.input-group label {
+  display: block;
+  font-weight: 400;
+  font-size: 22px;
+  color: #2a414f;
+  margin-left: 10px;
+}
+
+.input-group input {
+  width: 415px;
+  height: 55px;
+  border: 1px solid #95a0a7;
+  border-radius: 5px;
+  font-size: 22px;
+  margin-top: 10px;
+}
+
+.submit-btn {
+  width: 415px;
+  height: 55px;
+  margin-top: 45px;
+  background-color: #ff99004d;
+  border-radius: 5px;
+  border: none;
+  font-size: 22px;
+  font-weight: 400;
+  color: #0e161a;
+  cursor: pointer;
+}
+
+.form-link-container {
+  font-weight: 400;
+  font-size: 18px;
+  color: #2a414f;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.form-link {
+  color: #ff9900;
+  text-decoration: none;
+  margin-left: 5px;
+}
