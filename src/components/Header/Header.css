@@ -17,3 +17,17 @@
 .menu-list a:hover {
   color: orange;
 }
+
+.logout-btn {
+  margin-left: 15px;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 15px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.logout-btn:hover {
+  background-color: orange;
+  color: white;
+}
