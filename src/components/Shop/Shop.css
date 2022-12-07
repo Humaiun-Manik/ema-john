@@ -27,3 +27,21 @@
 .order-btn-icon {
   margin-left: 10px;
 }
+
+.pagination {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.pagination button,
+select {
+  font-size: 22px;
+  margin: 0 10px;
+  padding: 5px 10px;
+  border: 1px solid #fcbb43fb;
+  border-radius: 5px;
+  background-color: white;
+}
+.pagination .selected {
+  background-color: #ff9900;
+  color: white;
+}
